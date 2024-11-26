@@ -99,6 +99,9 @@ Ensure the following are installed:
 
 ---
 
+![image](https://github.com/user-attachments/assets/606fea35-8168-484c-81ec-f9c6cd0256ec)
+
+---
 ## **License**
 This project is licensed under the [MIT License](LICENSE). 
 
