@@ -103,5 +103,7 @@ Ensure the following are installed:
 
 ---
 ## **License**
+
 This project is licensed under the [MIT License](LICENSE). 
+
 ---
