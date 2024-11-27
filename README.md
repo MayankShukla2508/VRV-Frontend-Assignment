@@ -69,7 +69,7 @@ Ensure the following are installed:
 
 4. Open your browser and navigate to:
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ---
